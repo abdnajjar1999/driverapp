@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "59629648125",
+    "project_id": "durub-cbd26",
+    "storage_bucket": "durub-cbd26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59629648125:android:bb3796eef63b410f3e6694",
+        "android_client_info": {
+          "package_name": "com.example.driver_durub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhuAGQ8dEoCngq0e-Y7TjzGugnNsjA-BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59629648125:android:c8b1aed8cd9f471c3e6694",
+        "android_client_info": {
+          "package_name": "com.example.durub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhuAGQ8dEoCngq0e-Y7TjzGugnNsjA-BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
